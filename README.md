@@ -1,4 +1,4 @@
-# Rimauswap SDK
+# PF Trax SDK
 
 Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
 
@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-# git clone https://github.com/rimauswap/rimauswap-sdk.git
+# git clone https://github.com/pftrax/pftrax-sdk.git
 ```
 
-Move into the rimauswap-sdk working directory
+Move into the pftrax-sdk working directory
 
 ```sh
-cd rimauswap-sdk/
+cd pftrax-sdk/
 ```
 
 Install dependencies
