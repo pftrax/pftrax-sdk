@@ -3,7 +3,7 @@ import { getNetwork } from '@ethersproject/networks'
 import { getDefaultProvider } from '@ethersproject/providers'
 import { TokenAmount } from './entities/fractions/tokenAmount'
 import { Pair } from './entities/pair'
-import IRimauPair from '@rimauswap-lib/rimau-swap-core/build/RimauPair.json';
+import IPFTXPair from '@pftxswap-lib/pftx-swap-core/build/PFTXPair.json';
 import invariant from 'tiny-invariant'
 import ERC20 from './abis/ERC20.json'
 import { ChainId } from './constants'
