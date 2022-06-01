@@ -20,7 +20,7 @@ export class InsufficientReservesError extends Error {
  * than the price of a single unit of output after fees.
  */
 export class InsufficientInputAmountError extends Error {
-  public readonly isInsufficientInputAmountError: true = true
+  public readonly isInsufficientInputAmountError: true = false
 
   public constructor() {
     super()
