@@ -1,8 +1,8 @@
 {
-  "name": "@rimauswap-sdk/sdk",
+  "name": "@pftswap-sdk/sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of Rimauswap.",
+  "description": "🛠 An SDK for building applications on top of PFTSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "repository": "",
   "keywords": [
-    "rimauswap",
+    "pftswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@rimauswap-lib/rimau-swap-core": "^1.0.0",
+    "@pftswap-lib/pft-swap-core": "^1.0.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
